@@ -1,0 +1,47 @@
+[
+    {
+        "playerName": "Arif",
+        "points": -4,
+        "className": "Warrior"
+    },
+    {
+        "playerName": "George",
+        "points": -34,
+        "className": "Warrior"
+    },
+    {
+        "playerName": "Hannah",
+        "points": -5,
+        "className": "Warrior"
+    },
+    {
+        "playerName": "Irina",
+        "points": -5,
+        "className": "Warrior"
+    },
+    {
+        "playerName": "Klaas",
+        "points": -5,
+        "className": "Warrior"
+    },
+    {
+        "playerName": "Marilie",
+        "points": -11,
+        "className": "Warrior"
+    },
+    {
+        "playerName": "Milan",
+        "points": -14,
+        "className": "Warrior"
+    },
+    {
+        "playerName": "Robbin",
+        "points": -17,
+        "className": "Warrior"
+    },
+    {
+        "playerName": "Ville",
+        "points": -31,
+        "className": "Warrior"
+    }
+]
